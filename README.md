@@ -1,4 +1,4 @@
-# Hi, I'm Rose 👋
+# Hi, I'm Rose!
 
 Computational protein designer and PhD candidate in the **DeGrado Lab at UCSF** working at the intersection of **generative AI and protein engineering**.
 
@@ -17,10 +17,10 @@ My research focuses on exploring synthetic protein sequence space using **protei
 
 ## Selected Research
 
-🧬 **Discovery of a novel protein fold ("heliscrew")**  
+**Discovery of a novel protein fold ("heliscrew")**  
 Identified and experimentally validated a previously rare protein topology through deep learning–guided exploration of synthetic repeat sequence space.
 
-🔬 **Large-scale structural exploration of synthetic sequence libraries**  
+**Large-scale structural exploration of synthetic sequence libraries**  
 Developed scalable Python pipelines to generate, cluster, and analyze millions of predicted protein structures.
 
 ---
